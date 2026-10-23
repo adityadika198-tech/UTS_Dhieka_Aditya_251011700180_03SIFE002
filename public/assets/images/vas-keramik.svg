@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f4e9df"/>
+  <path d="M285 95 L315 95 L320 145 Q350 180 355 235 Q360 300 300 320 Q240 300 245 235 Q250 180 280 145 Z" fill="#c87555" stroke="#8c4935" stroke-width="7"/>
+  <path d="M280 145 Q300 160 320 145 M250 230 Q300 250 350 230" fill="none" stroke="#f2c6a8" stroke-width="8"/>
+  <path d="M300 95 V50 M300 70 L270 40 M300 80 L330 45" stroke="#54734a" stroke-width="7" fill="none"/>
+  <ellipse cx="265" cy="40" rx="13" ry="25" fill="#71935d" transform="rotate(-35 265 40)"/>
+  <ellipse cx="335" cy="45" rx="13" ry="25" fill="#71935d" transform="rotate(35 335 45)"/>
+  <text x="300" y="365" text-anchor="middle" font-size="24" fill="#5d4037">Vas Bunga Keramik</text>
+</svg>
